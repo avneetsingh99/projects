@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+.grad{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#eee, red,black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+}
+h1{
+    text-align: center;
+}
